@@ -1,0 +1,10 @@
+Mikheil_Khutsishvili	playsFor	FC_Merani_Tbilisi
+Ebbw_Vale	isLocatedIn	Blaenau_Gwent
+Valenciennes	isLocatedIn	Nord-Pas-de-Calais
+Yaghoub_Karimi	playsFor	Sepahan_Isfahan_F.C.
+Marcelo_Elizaga	hasGender	male
+Muscat_International_Airport	isConnectedTo	Bahrain_International_Airport
+Marco_Rigoni	playsFor	A.C._Chievo_Verona
+Evaldo_Silva_dos_Santos	isAffiliatedTo	Associação_Portuguesa_de_Desportos
+Duje_Čop	playsFor	Croatia_national_under-20_football_team
+Murat_Ocak	isAffiliatedTo	Karşıyaka_S.K.

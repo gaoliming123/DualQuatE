@@ -1,0 +1,10 @@
+Stan_Collymore	playsFor	England_national_football_team
+Suriname	hasOfficialLanguage	Dutch_language
+Mantorras	playsFor	F.C._Alverca
+Pablo_Bonells	isAffiliatedTo	Club_Celaya
+Jürgen_Habermas	isInterestedIn	Political_philosophy
+Victorio_Cocco	isAffiliatedTo	Argentina_national_football_team
+Velibor_Vasović	playsFor	AFC_Ajax
+Telmo_Zarra	diedIn	Bilbao
+Robert_Gascoyne-Cecil,_3rd_Marquess_of_Salisbury	hasGender	male
+Torbjörn_Nilsson	isAffiliatedTo	IFK_Göteborg

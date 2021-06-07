@@ -1,0 +1,10 @@
+/m/07pd_j	/film/film/genre	/m/02l7c8
+/m/06wxw	/location/location/time_zones	/m/02fqwt
+/m/0d4fqn	/award/award_winner/awards_won./award/award_honor/award_winner	/m/03wh8kl
+/m/07kcvl	/american_football/football_team/historical_roster./american_football/football_historical_roster_position/position_s	/m/0bgv8y
+/m/012201	/film/music_contributor/film	/m/0ckrnn
+/m/018gz8	/people/profession/people_with_this_profession	/m/01520h
+/m/02x17c2	/award/award_category/nominees./award/award_nomination/award_nominee	/m/0x3b7
+/m/03swmf	/people/person/education./education/education/major_field_of_study	/m/06nm1
+/m/01t94_1	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+/m/01pvkk	/film/film_job/films_with_this_crew_job./film/film_crew_gig/film	/m/014nq4
